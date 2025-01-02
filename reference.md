@@ -1,0 +1,1 @@
+[Paper](https://www.freepik.com/free-photo/paper-torn-up-with-black-hole-middle_47129054.htm#fromView=search&page=1&position=3&uuid=85fa5a45-50fd-40fb-9ad4-f50dbdd2e703&query=white+ripped+paper+in+black+background)
