@@ -29,6 +29,6 @@ img {
 
   &:nth-child(2) {
     mix-blend-mode: screen;
-    filter: brightness(1.15);
+    filter: brightness(1.18);
   }
 }
