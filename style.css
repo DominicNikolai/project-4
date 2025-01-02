@@ -8,10 +8,6 @@
     'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue';
 }
 
-a {
-  -webkit-tap-highlight-color: transparent;
-}
-
 html {
   scroll-behavior: smooth;
   scrollbar-width: thin;
